@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Alan Walker</string>
+    <string name="yellow_start">Yellow star</string>
+    <string name="bio">Alan Olav Walker (born 24 August 1997), formerly known by his stage name DJ Walkzz,
+        is a British Norwegian record producer and DJ. He is best known for his 2015 single "Faded", which
+        received platinum certifications in over 10 countries. He was ranked 36th on DJ Mag\'s Top 100 DJs
+        list of 2018, placing 19 positions lower than the previous year.\n
+        Walker is a son of Hilde Omdal Walker, a Norwegian, and Philip Alan Walker, an Englishman. By birth,
+        he was granted dual citizenship on the basis of his parental origin. At the age of two, he moved to Bergen,
+        Norway with his parents and sister. Walker grew up with two siblings, an older sister, Camilla Joy, born
+        in England, and a younger brother, Andreas, born in Norway after the family moved from the United Kingdom.\n
+        Growing up in the digital era, Walker found an early interest in computers, which later turned into a
+        fascination for programming and graphic design. He initially had no musical background; however, he
+        later taught himself by watching tutorials on YouTube based on music production.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
